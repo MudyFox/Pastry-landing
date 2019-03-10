@@ -1,0 +1,22 @@
+{
+    "name": "unnamed",
+    "description": "gulp project",
+    "main": "",
+    "authors": [
+        ""
+    ],
+
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+
+    "dependencies": {
+        "jquery": "2.*",
+        "bootstrap": "3.*",
+        "font-awesome": "5.*",
+        "slick-carousel": "1.*"
+    }
+}
