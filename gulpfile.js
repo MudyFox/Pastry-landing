@@ -74,7 +74,7 @@ var path = {
     watch: {
         html:    'src/**/*.html',
         js:      'src/js/**/*.js',
-        style:   'src/sass/**/*.scss',
+        style:   'src/**/*.css',
         img:     'src/images/content/**/*.*',
         sprites: 'src/images/sprites/**/*.*',
         fonts:   'src/fonts/**/*.*'
