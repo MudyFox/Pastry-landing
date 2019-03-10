@@ -1,14 +1,17 @@
 
-@import "../css/bootstrap.min";
-@import "../css/style-common";
-@import "../css/style-section-head";
-@import "../css/style-section-art";
-@import "../css/style-section-pancakes";
-@import "../css/style-section-cost";
-@import "../css/style-section-sandwich";
-@import "../css/style-section-footer";
-@import "../css/style-mobile-menu";
-@import "../css/swiper.min";
+@import "libs/bootstrap.min";
+@import "libs/swiper.min";
+
+
+@import "sections/style-common";
+@import "sections/style-section-head";
+@import "sections/style-section-art";
+@import "sections/style-section-pancakes";
+@import "sections/style-section-cost";
+@import "sections/style-section-sandwich";
+@import "sections/style-section-footer";
+@import "sections/style-mobile-menu";
+
 
 
 
